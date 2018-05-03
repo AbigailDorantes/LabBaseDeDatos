@@ -164,7 +164,7 @@ insert into PROVEEDOR
 values (5, 'crema', 'monterrey', 146454655)
 
 insert into PROVEEDOR
-values (8, 'toalla de baño', 'monterrey', 6545464655)
+values (8, 'toalla de baÃ±o', 'monterrey', 6545464655)
 
 insert into PROVEEDOR
 values (12, 'exfoliante coco', 'monterrey', '6454216546')
